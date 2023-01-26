@@ -10,6 +10,6 @@ variable "instance_type" {
 
 variable "instance_name" {
   description = "EC2 instance name"
-  default     = "kuji for Kunal2 - Provisioned by Terraform"
+  default     = "kuji for Kunal - Provisioned by Terraform"
 }
 s
